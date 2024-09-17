@@ -1,0 +1,7 @@
+.hover-darken {
+    transition: opacity 0.3s ease;
+}
+
+.image-hover:hover .hover-darken {
+    opacity: 0.7;
+}

@@ -1,0 +1,7 @@
+.loading-icon {
+    display: none;
+}
+.success-message {
+    display: none;
+    color: green;
+}

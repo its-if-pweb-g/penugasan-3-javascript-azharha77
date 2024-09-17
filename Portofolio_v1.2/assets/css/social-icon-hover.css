@@ -1,0 +1,19 @@
+.social-icon {
+    transition: all 0.3s ease;
+}
+
+.alt:hover {
+    content: url("../images/App_Alt_Pressed.png");
+}
+
+.linkedin:hover {
+    content: url("../images/App_LinkedIn_Pressed.png");
+}
+
+.instagram:hover {
+    content: url("../images/App_Instagram_Pressed.png");
+}
+
+.facebook:hover {
+    content: url("../images/App_Facebook_Pressed.png"); 
+}
